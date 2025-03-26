@@ -42,5 +42,5 @@ jobs:
         with:
           context: ./hello-spring-k8s
           push: true
-          tags: duongwng/hello-spring-k8s:latest
+          tags: tranhuumanh123/hello-spring-k8s:latest
           builder: ${{ steps.buildx.outputs.name }}
