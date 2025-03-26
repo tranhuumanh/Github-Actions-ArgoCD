@@ -33,8 +33,8 @@ jobs:
       - name: Login to DockerHub
         uses: docker/login-action@v3
         with:
-          username: tranhuumanh123
-          password: Huumanh123@
+          username: duongwng
+          password: Duong1812004@
       
 
       - name: Build and push Hello Spring K8S image
